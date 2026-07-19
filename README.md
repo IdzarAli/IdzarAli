@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,30:0a1628,70:1a3a5c,100:1f6feb&amp;height=140&amp;section=header&amp;text=Syamaidzar%20Alisandaru%20Ar Rozin&amp;fontSize=32&amp;fontColor=ffffff&amp;fontAlignY=55&amp;desc=Statistics%20Undergraduate%20Student%20%7C%20ML%20and%20AI%20Enthusiast&amp;descAlignY=78&amp;descSize=16&amp;descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,30:0a1628,70:1a3a5c,100:1f6feb&amp;height=140&amp;section=header&amp;text=Syamaidzar%20Alisandaru%20Ar%20 Rozin&amp;fontSize=32&amp;fontColor=ffffff&amp;fontAlignY=55&amp;desc=Statistics%20Undergraduate%20Student%20%7C%20ML%20and%20AI%20Enthusiast&amp;descAlignY=78&amp;descSize=16&amp;descColor=8b949e" width="100%"/>
 
 <br/>
 
@@ -115,7 +115,7 @@ Karangmalang,Special Region of Yogyakarta, Indonesia &nbsp;|&nbsp; Yogyakarta St
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=IdzarAli&amp;theme=github-dark-blue&amp;hide_border=true&amp;date_format=j%20M%5B%20Y%5D&amp;stroke=1f6feb&amp;ring=58a6ff&amp;fire=ff7b54"/>
+<img src="https://streak-stats.demolab.com?user=IdzarAli&;theme=github-dark-blue&amp;hide_border=true&amp;date_format=j%20M%5B%20Y%5D&amp;stroke=1f6feb&amp;ring=58a6ff&amp;fire=ff7b54"/>
 
 </div>
 
