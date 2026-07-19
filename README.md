@@ -115,7 +115,7 @@ Karangmalang,Special Region of Yogyakarta, Indonesia &nbsp;|&nbsp; Yogyakarta St
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=IdzarAli&;theme=github-dark-blue&amp;hide_border=true&amp;date_format=j%20M%5B%20Y%5D&amp;stroke=1f6feb&amp;ring=58a6ff&amp;fire=ff7b54"/>
+<img src="https://streak-stats.demolab.com?user=IdzarAli&amp;theme=github-darkblue&amp;hide_border=true&amp;date_format=j%20M%5B%20Y%5D&amp;stroke=1f6feb&amp;ring=58a6ff&amp;fire=ff7b54"/>
 
 </div>
 
